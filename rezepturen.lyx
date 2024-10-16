@@ -1,0 +1,973 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass dinbrief
+\begin_preamble
+\usepackage[ngerman]{babel}
+
+\usepackage[]{ragged2e}
+%\thispagestyle{empty}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.5pt}
+%\usepackage[absolute]{textpos}
+%\textblockorigin{10mm}{10mm} % start everything near the top-left corner
+\lfoot{\flushleft\footnotesize Winnie Puuh e. K.\\
+HRA 1234 AG Ashdown Forest\\
+Ust.-ID.-Nr.: UK 123 456 789
+}
+\cfoot{\flushleft\footnotesize
+\hspace{90mm} Bankverbindung: Sparkasse Ashdown Forest\\
+\hspace{90mm}\phantom{Bankverbindung: } IBAN: UK12 3456 0000 0012 3456 78\\
+\hspace{90mm}\phantom{Bankverbindung: } BIC: HELAUHALLO
+}
+\rfoot{}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language ngerman
+\language_package none
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "berasans" "default"
+\font_typewriter "courier" "default"
+\font_math "auto" "auto"
+\font_default_family sfdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 95 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing onehalf
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 0
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 0
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification false
+\use_refstyle 0
+\use_minted 0
+\index Stichwortverzeichnis
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 25mm
+\topmargin 4mm
+\rightmargin 20mm
+\bottommargin 35mm
+\footskip 0cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style german
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantom{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace -13cm
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantom{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hspace{}
+\length 10.3cm
+\end_inset
+
+
+\begin_inset Graphics
+	filename logo.png
+	lyxscale 50
+	scale 20
+	BoundingBox 0bp 0bp 4512bp 2353bp
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+footnotesize
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="6" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="96mm">
+<column alignment="left" valignment="top" width="13cm">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Winnie Puuh ✦ Hundred Acre Wood ✦ Ashdown Forest
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+Winnie Puuh
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+Hundred Acre Wood
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+Retaxstelle der GKV
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+Ashdown Forest
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+Fax: 069 66816 808319
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+Telefon: 0815 4711
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+Telefax: 0815 1199
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+info@winniepuuh.co.uk
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="96mm">
+<column alignment="right" valignment="top" width="64mm">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size large
+DATUMJETZT
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+normalsize
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="4">
+<features tabularvalignment="middle">
+<column alignment="right" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="right" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Abrechnungszeitraum:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+QUARTAL
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Datum Schreiben:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+DATUMSCHREIBEN
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+PIC-Nummer:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+PICNR
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Datum Rezept:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+DATUMREZEPT
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Institutionskennzeichen:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+IKZ
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Versicherter/e:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+NAME
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+IK Abrechnungszentrum:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ABRECHNUNGSZENTRUM
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Versicherten-Nr.:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+VSNR
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Kostenträger:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KOSTENTRAEGER
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Differenzbetrag:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+BETRAG
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Betreff
+\series default
+: Einspruch gegen Korrektur der Abrechnung – Anwendung der Arzneimittelpreisvero
+rdnung (AMPreisV) bei Rezepturen/Fertigarzneimitteln
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{RaggedRight}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Sehr geehrte Damen und Herren,
+\end_layout
+
+\begin_layout Standard
+hiermit legen wir frist- und formgemäß 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textbf{
+\end_layout
+
+\end_inset
+
+Einspruch
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ gegen die Retaxierung des Rezepts mit der PIC-Nummer: PICNR vom DATUMREZEPT
+ ein, welche die Abrechnung der
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textbf{
+\end_layout
+
+\end_inset
+
+REZEPTUR
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+betrifft.
+ Die Retaxierung erfolgte dabei auf die anteiligen Mengen der abgerechneten
+ Stoffe und Fertigarzneimittel.
+\end_layout
+
+\begin_layout Standard
+Die Winnie-Puuh-Apotheke hat die Abrechnung korrekt nach den Vorgaben des
+ §
+\begin_inset space ~
+\end_inset
+
+5 Abs.
+ 2 Nr.
+ 1 bzw.
+ §
+\begin_inset space ~
+\end_inset
+
+5 Abs.
+ 2 Nr.
+ 2 der Arzneimittelpreisverordnung (AMPreisV) vorgenommen.
+ Laut dieser Vorschrift ist der Preis auf Grundlage der „
+\emph on
+üblichen Abpackung
+\emph default
+“ bzw.
+ der „
+\emph on
+erforderlichen Packungsgröße
+\emph default
+“ zu ermitteln, die für die Abrechnung der Rezeptur bzw.
+ des Fertigarzneimittels erforderlich ist.
+ Der Wortlaut der Vorschrift lautet:
+\end_layout
+
+\begin_layout Standard
+„
+\emph on
+Auszugehen ist von den Apothekeneinkaufspreisen der für die Zubereitung
+ erforderlichen Mengen an Stoffen und Fertigarzneimitteln.
+ Maßgebend ist:
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+bei Stoffen der Einkaufspreis der üblichen Abpackung.
+\end_layout
+
+\begin_layout Enumerate
+
+\emph on
+bei Fertigarzneimitteln der Einkaufspreis nach §
+\begin_inset space ~
+\end_inset
+
+3 Abs.
+ 2 der erforderlichen Packungsgröße, höchstens jedoch der Apothekeneinkaufspreis
+, der für Fertigarzneimittel bei Abgabe in öffentlichen Apotheken gilt.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantom{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantom{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Diese Regelung stellt klar, dass der Preis für die Herstellung einer Rezeptur
+ bzw.
+ eines Fertigarzneimittels auf der Grundlage des Einkaufspreises der üblichen
+ Abpackung bzw.
+ der erforderlichen Packungsgröße berechnet wird und nicht auf Grundlage
+ einer Teilmenge.
+ Das Wort „
+\emph on
+maßgebend
+\emph default
+“ konkretisiert die Ermittlung des Apothekeneinkaufspreises der für die
+ Zubereitung erforderlichen Mengen im Sinne von Satz 1.
+ Eine Herunterrechnung der Apothekeneinkaufspreise auf die tatsächlich benötigte
+ Menge des Stoffs ergibt sich weder aus §
+\begin_inset space ~
+\end_inset
+
+5 Abs.
+ 2 Nr.
+ 1 AMPreisV noch aus §
+\begin_inset space ~
+\end_inset
+
+5 Abs.
+ 2 Nr.
+ 2 AMPreisV und ist auch in keiner anderen Vereinbarung vorgesehen.
+\end_layout
+
+\begin_layout Standard
+Bei der Taxation des Preises soll nicht die in der Rezeptur bzw.
+ im Fertigarzneimittel verwendete Packung zugrunde gelegt werden.
+ Die AMPreisV stellt lediglich eine Preisregelung dar, wie gegenüber den
+ Krankenkassen abzurechnen ist.
+ Sie gibt keine Vorgaben darüber, welche Packung in der Apotheke eingesetzt
+ werden muss.
+ Der Hinweis auf die „
+\emph on
+erforderliche Menge
+\emph default
+“ in der AMPreisV bedeutet, dass die Apotheke von einer Packungsgröße ausgehen
+ muss, die die Herstellung der Rezeptur bzw.
+ des Fertigarzneimittels ermöglicht.
+\end_layout
+
+\begin_layout Standard
+Die Formulierung „
+\emph on
+maßgebend ist bei Stoffen der Einkaufspreis der üblichen Abpackung
+\emph default
+“ bzw.
+ „
+\emph on
+maßgebend bei Fertigarzneimitteln der Einkaufspreis nach § 3 Abs.
+ 2 der erforderlichen Packungsgröße
+\emph default
+“ bekräftigt, dass der Gesetzgeber den Preis der gesamten Packung bewusst
+ als Grundlage festgelegt hat.
+ Die Berücksichtigung der üblichen Abpackung bzw.
+ der erforderlichen Packungsgröße gewährleistet eine transparente und gerechte
+ Preisberechnung, vermeidet Ungenauigkeiten und sorgt für eine nachvollziehbare
+ Preisstruktur.
+ Diese Regelung stellt zudem sicher, dass die Apotheken die vollständigen
+ Kosten erstattet bekommen, die sie beim Einkauf der üblichen Abpackung
+ tragen.
+ Gleichzeitig reduziert sie den administrativen Aufwand für Krankenkassen,
+ da komplexe Berechnungen und Prüfungen für Teilmengen entfallen.
+\end_layout
+
+\begin_layout Standard
+In diesem Sinne hat auch das Landessozialgericht Nordrhein-Westfalen (Urteil
+ vom 17.
+ Januar 2024, Az.: L 10 KR 701/22) entschieden.
+ Wörtlich führt das Gericht dort aus: „
+\emph on
+Vielmehr ist danach auszugehen von den Apothekeneinkaufspreisen der für
+ die Zubereitung erforderlichen Mengen an Stoffen und Fertigarzneimitteln
+ (Satz 1), wobei maßgebend der Einkaufspreis der üblichen Abpackung (Satz
+ 2 Nr.
+ 1) bzw.
+ grundsätzlich der erforderlichen Packungsgröße (Satz 2 Nr.
+ 2) ist.
+\emph default
+“
+\end_layout
+
+\begin_layout Standard
+Da hier die übliche, kleinste zur Herstellung benötigte Menge/Abpackung
+ für die Substanzen 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+textbf{
+\end_layout
+
+\end_inset
+
+SUBSTANZ
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\end_inset
+
+ zugrunde zu legen ist, können diese auch vollständig gegenüber Ihnen abgerechne
+t werden.
+ Wir bitten daher um Berücksichtigung dieses Einspruchs und die Anpassung
+ der Abrechnung gemäß den geltenden gesetzlichen Regelungen.
+ Für Rückfragen oder weitere Informationen stehen wir Ihnen gerne zur Verfügung.
+\end_layout
+
+\begin_layout Standard
+Mit freundlichen Grüßen Winnie Puuh
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{RaggedRight}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\end_body
+\end_document
